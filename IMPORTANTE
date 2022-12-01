@@ -1,0 +1,4 @@
+En este proyecto, en la parte del front end se usó NextJS.
+Para evitar un error acerca de un getter de la libreria web3,
+tuve que instalar la versión 1.7.4 ----> npm i web3@1.7.4
+
